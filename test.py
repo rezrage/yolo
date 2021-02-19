@@ -1,2 +1,2 @@
-print ("renu")
-a="gopal"
+print("renu")
+a = "gopal"
